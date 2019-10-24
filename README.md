@@ -3,21 +3,21 @@ Association rule learning is a rule-based machine learning method for discoverin
 
 **Here are Some important Rules to predict large incomes:-
 
-![alt text]https://github.com/mihird94/AssociationRulesMining/blob/master/rules.PNG)
+![alt text](https://github.com/mihird94/AssociationRulesMining/blob/master/rules.PNG)
 
 **Here are some plots that depict this graphically:
 
 a)Large Income
 
-![alt text]https://github.com/mihird94/AssociationRulesMining/blob/master/largeincome.png)
+![alt text](https://github.com/mihird94/AssociationRulesMining/blob/master/largeincome.png)
 
 b)Small Income 
 
-![alt text]https://github.com/mihird94/AssociationRulesMining/blob/master/income_small_rules.png)
+![alt text](https://github.com/mihird94/AssociationRulesMining/blob/master/income_small_rules.png)
 
 **Here is a screenshot of the Shiny app
 
-![alt text]https://github.com/mihird94/AssociationRulesMining/blob/master/shiny.PNG)
+![alt text](https://github.com/mihird94/AssociationRulesMining/blob/master/shiny.PNG)
 
 You can also find this app at:-
 https://mihird94.shinyapps.io/association_rules_mining/
