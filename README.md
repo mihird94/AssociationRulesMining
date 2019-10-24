@@ -1,5 +1,5 @@
 # AssociationRulesMining
-Association rule learning is a rule-based machine learning method for discovering interesting relations between variables in large databases. It is an unsupervised method meaning there is no response variable to train on. In this project, I have applied association rules on the Adult Data set from the UCI repository to mine some interesting rules to be able to find associations between other demographic attributes and Salary. I have also built a Shiny App that to visulize the rules and fine_tune the algorithm.
+Association rule learning is a rule-based machine learning method for discovering interesting relations between variables in large databases. It is an unsupervised method meaning there is no response variable to train on. In this project, I have applied association rules on the Adult Data set from the UCI repository to mine some interesting rules to be able to find associations between other demographic attributes and Salary. I have also built a Shiny App that to visulize the rules and fine_tune the algorithm. Please head the arules_markdown file for detailed project report
 
 **Here are Some important Rules to predict large incomes:-
 
